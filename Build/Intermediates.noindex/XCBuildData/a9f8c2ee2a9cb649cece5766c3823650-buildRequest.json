@@ -1,0 +1,58 @@
+{
+  "buildCommand" : "prepareForIndexing",
+  "configuredTargets" : [
+    {
+      "guid" : "949a558447c66cf0c49041a4d90c0b6af14b4b9ead7b7015823c2f21610f62d9"
+    }
+  ],
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64e",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : true,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos14.5",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "armv4t",
+        "armv5",
+        "armv6",
+        "armv7",
+        "armv7f",
+        "armv7s",
+        "armv7k",
+        "arm64",
+        "arm64e"
+      ],
+      "targetArchitecture" : "arm64e"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/zebra/Zla/Dev/Tests/ken_git_space/Movie-Browser/Movie Browser/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/zebra/Zla/Dev/Tests/ken_git_space/Movie-Browser/Movie Browser/Build/Products",
+      "derivedDataPath" : "/Users/zebra/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/zebra/Library/Developer/Xcode/DerivedData/Movie_Browser-eifldfgklfgrxwfslagfazpqzjzu/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/zebra/Library/Developer/Xcode/DerivedData/Movie_Browser-eifldfgklfgrxwfslagfazpqzjzu/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/zebra/Zla/Dev/Tests/ken_git_space/Movie-Browser/Movie Browser/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

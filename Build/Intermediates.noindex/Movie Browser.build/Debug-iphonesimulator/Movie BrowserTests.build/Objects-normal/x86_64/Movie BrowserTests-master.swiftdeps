@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "5893b26df3cf56fa5bdfab8e4c99ea97"
+build_time: [1626730184, 43446000]
+inputs:
+  "/Users/zebra/Zla/Dev/Tests/ken_git_space/Movie-Browser/Movie Browser/Movie BrowserTests/HttpManagerTests.swift": [1626730119, 925631672]
+  "/Users/zebra/Zla/Dev/Tests/ken_git_space/Movie-Browser/Movie Browser/Movie BrowserTests/MovieServiceTests.swift": [1626730183, 780820332]
+  "/Users/zebra/Zla/Dev/Tests/ken_git_space/Movie-Browser/Movie Browser/Fixtures/Fixtures.swift": [1626708039, 321360592]

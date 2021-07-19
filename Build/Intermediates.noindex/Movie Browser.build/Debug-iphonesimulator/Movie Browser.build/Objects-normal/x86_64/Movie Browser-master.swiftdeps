@@ -1,0 +1,16 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "27afa947d1991fd721dfeb39f1940d72"
+build_time: [1626708031, 908876000]
+inputs:
+  "/Users/zebra/Zla/Dev/Tests/ken_git_space/Movie-Browser/Movie Browser/Movie Browser/Services/MovieService.swift": [1626700556, 210520300]
+  "/Users/zebra/Zla/Dev/Tests/ken_git_space/Movie-Browser/Movie Browser/Movie Browser/Views/Movies/MoviesViewController.swift": [1626700556, 267113430]
+  "/Users/zebra/Zla/Dev/Tests/ken_git_space/Movie-Browser/Movie Browser/Movie Browser/Views/Movies/MovieCell.swift": [1626700556, 112994691]
+  "/Users/zebra/Zla/Dev/Tests/ken_git_space/Movie-Browser/Movie Browser/Movie Browser/Models/Movie.swift": [1626700556, 178148835]
+  "/Users/zebra/Zla/Dev/Tests/ken_git_space/Movie-Browser/Movie Browser/Movie Browser/Helpers/UIImageView+LoadURL.swift": [1626700556, 20176087]
+  "/Users/zebra/Zla/Dev/Tests/ken_git_space/Movie-Browser/Movie Browser/Movie Browser/Views/Movies/MovieView.swift": [1626700556, 143061195]
+  "/Users/zebra/Zla/Dev/Tests/ken_git_space/Movie-Browser/Movie Browser/Movie Browser/Helpers/MovieLabel.swift": [1626700556, 84166286]
+  "/Users/zebra/Zla/Dev/Tests/ken_git_space/Movie-Browser/Movie Browser/Movie Browser/AppDelegate.swift": [1626700555, 990420802]
+  "/Users/zebra/Zla/Dev/Tests/ken_git_space/Movie-Browser/Movie Browser/Movie Browser/Helpers/UIView+Layout.swift": [1613057181, 0]
+  "/Users/zebra/Zla/Dev/Tests/ken_git_space/Movie-Browser/Movie Browser/Movie Browser/Views/Movies/MovieViewModel.swift": [1626700556, 50479145]
+  "/Users/zebra/Zla/Dev/Tests/ken_git_space/Movie-Browser/Movie Browser/Movie Browser/SceneDelegate.swift": [1626700555, 966310407]
+  "/Users/zebra/Zla/Dev/Tests/ken_git_space/Movie-Browser/Movie Browser/Movie Browser/Services/HTTPManager.swift": [1626700556, 239582734]
